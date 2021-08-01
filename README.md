@@ -2,7 +2,9 @@
 
 # EastSea 🌊
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:xgf6580@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-833AB4?logo=instagram&logoColor=white)](https://www.instagram.com/y.eastsea)
+[![Slack Badge](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white)](https://www.slack.com/)
+[![Github Badge](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://www.github.com/10EastSea)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-DD2A7B?logo=instagram&logoColor=white)](https://www.instagram.com/y.eastsea)
 
 Hello, I'm ***Back-end Programmer*** using `Java`. I can design and implement various `algorithms` with Java.
 In addition, I can do `Front-end` implementation and `DataBase` design.
@@ -31,11 +33,12 @@ These days, I'm developing simple apps using `flutter` as a hobby.
 [![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](#)
 [![Spring_Boot Badge](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)](#) &nbsp; 
 [![Flutter Badge](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](#) &nbsp; 
-[![Django Badge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](#) &nbsp; 
 [![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](#)
 [![Chartjs Badge](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)](#)
 [![JQuery Badge](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](#)
 [![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)](#) &nbsp; 
+[![Django Badge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](#)
+[![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#) &nbsp; 
 [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
 [![Docker Badge](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](#)
 
@@ -64,8 +67,19 @@ These days, I'm developing simple apps using `flutter` as a hobby.
 ## Experience
 
 - 🎓 [Hanyang University](https://www.hanyang.ac.kr/), [Department of Computer Science](http://cs.hanyang.ac.kr/) (2017.03.02~)
+  * [FourKer](https://github.com/10EastSea/FourKer)
+  * [DataStructure Assignment](https://github.com/10EastSea/dataStructure_assignment)
+  * [B+Tree](https://github.com/10EastSea/database_B-Tree)
+  * [Music Application](https://github.com/10EastSea/database_MusicApp)
+  * [Socket Programming](https://github.com/10EastSea/computerNetwork_socketProgramming)
+  * [xv6](https://github.com/10EastSea/os_xv6)
 - 🪖 Republic of Korea Army sergent as Intelligence agent, honorable discharge (2018.04.16~2019.12.12)
 - 🎖 Human Resources Development Service of Korea, Industrial Engineer Information Processing (2019.12.02)
 - 🏆 [2020 OIDC](http://www.oidc.co.kr/oidc2020), Excellence award (2020.08.27)
+  * [YousicTube](https://github.com/10EastSea/YousicTube)
 - 📚 KAIST, 2020 [Madcamp](https://www.madcamp.io/) during the winter semester (2020.12.29~2021.29)
+  * [Week1](https://github.com/10EastSea/cs496_week1)
+  * [Week2](https://github.com/10EastSea/CS496_proj2)
+  * [Week3](https://github.com/10EastSea/cs496-week3)
+  * [Week4](https://github.com/10EastSea/ai-health-training)
 - 🏢 [Zkrypto](http://www.zkrypto.com/), Intern at the Corporate Affiliated Laboratory (2021.07.01~2021.12.31)
