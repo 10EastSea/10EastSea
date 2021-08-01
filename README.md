@@ -1,8 +1,8 @@
 <!-- Badge: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 
 # EastSea 🌊
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xgf6580@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/y.eastsea)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:xgf6580@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-833AB4?logo=instagram&logoColor=white)](https://www.instagram.com/y.eastsea)
 
 Hello, I'm ***Back-end Programmer*** using `Java`. I can design and implement various `algorithms` with Java.
 In addition, I can do `Front-end` implementation and `DataBase` design.
@@ -60,9 +60,12 @@ These days, I'm developing simple apps using `flutter` as a hobby.
 [![CPU Badge](https://img.shields.io/badge/Intel-Core_i5_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white)](#)
  -->
 
+
 ## Experience
 
-- 🎓 [Hanyang University](https://www.hanyang.ac.kr/), [Department of Computer Science](http://cs.hanyang.ac.kr/) (2017.03~ )
-- 🏢 [Zkrypto](http://www.zkrypto.com/), Intern at the Corporate Affiliated Laboratory (2021.07~2021.12)
-- 🎖 Human Resources Development Service of Korea, Industrial Engineer Information Processing (2019.12.10)
+- 🎓 [Hanyang University](https://www.hanyang.ac.kr/), [Department of Computer Science](http://cs.hanyang.ac.kr/) (2017.03.02~)
+- 🪖 Republic of Korea Army sergent as Intelligence agent, honorable discharge (2018.04.16~2019.12.12)
+- 🎖 Human Resources Development Service of Korea, Industrial Engineer Information Processing (2019.12.02)
 - 🏆 [2020 OIDC](http://www.oidc.co.kr/oidc2020), Excellence award (2020.08.27)
+- 📚 KAIST, 2020 [Madcamp](https://www.madcamp.io/) during the winter semester (2020.12.29~2021.29)
+- 🏢 [Zkrypto](http://www.zkrypto.com/), Intern at the Corporate Affiliated Laboratory (2021.07.01~2021.12.31)
