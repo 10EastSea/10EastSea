@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:xgf6580@gmail.com)
 [![Slack Badge](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white)](https://www.slack.com/)
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://www.github.com/10EastSea)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-DD2A7B?logo=instagram&logoColor=white)](https://www.instagram.com/y.eastsea)
+<!-- [![Instagram Badge](https://img.shields.io/badge/Instagram-DD2A7B?logo=instagram&logoColor=white)](https://www.instagram.com/y.eastsea) -->
 
 Hello, I'm ***Back-end Programmer*** using `Java`. I can design and implement various `algorithms` with Java.
 In addition, I can do `Front-end` implementation and `DataBase` design.
