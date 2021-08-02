@@ -77,7 +77,7 @@ These days, I'm developing simple apps using `flutter` as a hobby.
 - 🎖 Human Resources Development Service of Korea, Industrial Engineer Information Processing (2019.12.02)
 - 🏆 [2020 OIDC](http://www.oidc.co.kr/oidc2020), Excellence award (2020.08.27)
   * [YousicTube](https://github.com/10EastSea/YousicTube)
-- 📚 KAIST, 2020 [Madcamp](https://www.madcamp.io/) during the winter semester (2020.12.29~2021.29)
+- 📚 KAIST, 2020 [Madcamp](https://www.madcamp.io/) during the winter semester (2020.12.29~2021.1.29)
   * [Week1](https://github.com/10EastSea/cs496_week1)
   * [Week2](https://github.com/10EastSea/CS496_proj2)
   * [Week3](https://github.com/10EastSea/cs496-week3)
