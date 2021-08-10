@@ -8,7 +8,7 @@
 
 Hello, I'm ***Back-end Programmer*** using `Java`. I can design and implement various `algorithms` with Java.
 In addition, I can do `Front-end` implementation and `DataBase` design.
-These days, I'm developing simple apps using `flutter` as a hobby.
+These days, I'm developing simple apps using `Flutter` as a hobby.
 
 
 ## Stack
@@ -80,8 +80,8 @@ These days, I'm developing simple apps using `flutter` as a hobby.
   * [YousicTube](https://github.com/10EastSea/YousicTube)
 - 📚 KAIST, 2020 [Madcamp](https://www.madcamp.io/) during the winter semester (2020.12.29~2021.1.29)
   * [Week1](https://github.com/10EastSea/cs496_week1)
-  * [Week2](https://github.com/10EastSea/CS496_proj2)
-  * [Week3](https://github.com/10EastSea/cs496-week3)
+  * [Week2](https://github.com/10EastSea/cs496_week2)
+  * [Week3](https://github.com/10EastSea/cs496_week3)
   * [Week4](https://github.com/10EastSea/ai-health-training)
 - 🏢 [Zkrypto](http://www.zkrypto.com/), Intern at the Corporate Affiliated Laboratory (2021.07.01~2021.12.31)
   * Online Voting Application Servers (using Spring)
