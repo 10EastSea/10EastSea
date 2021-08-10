@@ -84,3 +84,5 @@ These days, I'm developing simple apps using `flutter` as a hobby.
   * [Week3](https://github.com/10EastSea/cs496-week3)
   * [Week4](https://github.com/10EastSea/ai-health-training)
 - 🏢 [Zkrypto](http://www.zkrypto.com/), Intern at the Corporate Affiliated Laboratory (2021.07.01~2021.12.31)
+  * Online Voting Application Servers (using Spring)
+  * Wallet for Cryptocurrency Transactions made using Klayton Tokens (using Android)
