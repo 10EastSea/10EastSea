@@ -87,4 +87,7 @@ These days, I'm developing simple apps using `Flutter` as a hobby.
   * Online Voting Application Servers (using Spring)
   * Wallet for Cryptocurrency Transactions made using Klayton Tokens (using Android)
   * Online Voting Application operating on Android (using Android)
-- ⚾️ [숫자야구 (Bulls and Cows)](https://play.google.com/store/apps/details?id=com.eastsea.bulls_and_cows), Game Application Development (2021.08.07)
+- ⚾️ 숫자야구 (Bulls and Cows), Game Application Development
+  * [Android](https://play.google.com/store/apps/details?id=com.eastsea.bulls_and_cows) (2021.08.07)
+  * iOS (Preparing to release)
+  * [Update Note](https://github.com/10EastSea/bulls_and_cows)
