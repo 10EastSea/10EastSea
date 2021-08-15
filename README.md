@@ -86,4 +86,5 @@ These days, I'm developing simple apps using `Flutter` as a hobby.
 - 🏢 [Zkrypto](http://www.zkrypto.com/), Intern at the Corporate Affiliated Laboratory (2021.07.01~2021.12.31)
   * Online Voting Application Servers (using Spring)
   * Wallet for Cryptocurrency Transactions made using Klayton Tokens (using Android)
+  * Online Voting Application operating on Android (using Android)
 - ⚾️ [숫자야구 (Bulls and Cows)](https://play.google.com/store/apps/details?id=com.eastsea.bulls_and_cows), Game Application Development (2021.08.07)
