@@ -8,7 +8,7 @@
 
 Hello, I'm ***Back-end Programmer*** using `Java`. I can design and implement various `algorithms` with Java.
 In addition, I can do `Front-end` implementation and `DataBase` design.
-These days, I'm developing simple apps using `Flutter` as a hobby.
+Besides, I can develop simple apps using `Flutter` and `Android Studio`.
 
 
 ## Stack
@@ -35,9 +35,9 @@ These days, I'm developing simple apps using `Flutter` as a hobby.
 [![Flutter Badge](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](#)
 [![Android Badge](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](#) &nbsp; 
 [![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](#)
-[![Chartjs Badge](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)](#)
 [![JQuery Badge](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](#)
-[![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)](#) &nbsp; 
+[![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)](#)
+<!-- [![Chartjs Badge](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)](#) &nbsp;  -->
 <!-- 
 [![Django Badge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](#)
 [![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#) &nbsp; 
