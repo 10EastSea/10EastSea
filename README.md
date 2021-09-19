@@ -93,4 +93,4 @@ Besides, I can develop simple apps using `Flutter` and `Android Studio`.
   * [Android](https://play.google.com/store/apps/details?id=com.eastsea.bulls_and_cows) (2021.08.07)
   * iOS (Preparing to release)
   * [Update Note](https://github.com/10EastSea/bulls_and_cows)
-- 💵 [Lotto World](https://10eastsea.github.io/lottoworld), Site where Lotto number extraction and statistics can be viewed (2021.08.29)
+- 💵 [Lotto World](https://10eastsea.github.io/lottoworld), Site which Lotto number extraction and statistics can be viewed (2021.08.29)
