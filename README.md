@@ -97,3 +97,5 @@ Besides, I can develop simple apps using `Flutter` and `Android Studio`.
 - 🔐 Cryptography algorithm (Java Projects)
   * [Bignum Projects](https://github.com/10EastSea/bignum-projects)
   * [Cryptools](https://github.com/10EastSea/cryptools)
+  * [Textbook RSA](https://github.com/10EastSea/textbook-rsa)
+  * [Substitution Cipher](https://github.com/10EastSea/substitution-cipher)
