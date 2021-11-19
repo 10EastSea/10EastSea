@@ -89,6 +89,7 @@ Besides, I can develop simple apps using `Flutter` and `Android Studio`.
   * Online Voting Application Servers (using Spring)
   * Wallet for Cryptocurrency Transactions made using Klayton Tokens (using Android)
   * Online Voting Application operating on Android (using Android)
+  * [Dalgona Swap on Testnet](https://github.com/10EastSea/dalgona-testnet) (using PancakeSwap)
 - ⚾️ 숫자야구 (Bulls and Cows), Game Application Development
   * [Android](https://play.google.com/store/apps/details?id=com.eastsea.bulls_and_cows) (2021.08.07)
   * iOS (Preparing to release)
@@ -99,3 +100,4 @@ Besides, I can develop simple apps using `Flutter` and `Android Studio`.
   * [Cryptools](https://github.com/10EastSea/cryptools)
   * [Textbook RSA](https://github.com/10EastSea/textbook-rsa)
   * [Substitution Cipher](https://github.com/10EastSea/substitution-cipher)
+  * [Elliptic Curve Cryptography](https://github.com/10EastSea/elliptic-curve-cryptography)
