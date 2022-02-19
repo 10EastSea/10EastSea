@@ -8,20 +8,20 @@
 
 Hello, I'm ***Back-end Programmer*** using `Java`. I can design and implement various `algorithms` with Java.
 In addition, I can do `Front-end` implementation and `DataBase` design.
-Besides, I can develop simple apps using `Flutter` and `Android Studio`.
+Besides, I can develop simple apps using `Android Studio` and `Flutter`.
 
 
 ## Stack
 
 #### 👩‍💻 Languages
 [![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](#) &nbsp; 
-[![Dart Badge](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](#) &nbsp; 
 [![HTML Badge](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
 [![CSS Badge](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
 [![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#) &nbsp; 
+[![Dart Badge](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](#) &nbsp; 
 [![C Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](#)
 [![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](#)
-<!-- [![Python Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)](#) -->
+[![Python Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)](#)
 
 #### ⚡ Database
 [![MySQL Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](#)
@@ -32,27 +32,23 @@ Besides, I can develop simple apps using `Flutter` and `Android Studio`.
 #### 🚀 Frameworks & Platfroms
 [![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](#)
 [![Spring_Boot Badge](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)](#) &nbsp; 
-[![Flutter Badge](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](#)
-[![Android Badge](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](#) &nbsp; 
 [![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](#)
 [![JQuery Badge](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](#)
 [![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)](#)
-<!-- [![Chartjs Badge](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)](#) &nbsp;  -->
-<!-- 
+[![Chartjs Badge](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)](#) &nbsp; 
+[![Android Badge](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](#)
+[![Flutter Badge](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](#) &nbsp; 
 [![Django Badge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](#)
 [![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#) &nbsp; 
 [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
 [![Docker Badge](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](#)
- -->
- 
-<!-- 
+
 #### 💻 Environment & Cloud
 [![Visual_Studio_Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](#)
-[![Eclipse Badge](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)](#) &nbsp; 
-[![Xcode Badge](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)](#)
-[![Android_Studio Badge](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)](#) <br /> 
+[![Android_Studio Badge](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)](#) &nbsp; 
 [![GCP Badge](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](#)
 
+<!--
 #### 👨‍💻 Office
 [![Word Badge](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)](#)
 [![PowerPoint Badge](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)](#)
@@ -90,6 +86,7 @@ Besides, I can develop simple apps using `Flutter` and `Android Studio`.
   * Wallet for Cryptocurrency Transactions made using Klayton Tokens (using Android)
   * Online Voting Application operating on Android (using Android)
   * [Dalgona Swap on Testnet](https://github.com/10EastSea/dalgona-testnet) (using PancakeSwap)
+  * Study on cryptography and zero-knowledge proof (using [jsnark](https://github.com/akosba/jsnark))
 - ⚾️ 숫자야구 (Bulls and Cows), Game Application Development
   * [Android](https://play.google.com/store/apps/details?id=com.eastsea.bulls_and_cows) (2021.08.07)
   * iOS (Preparing to release)
@@ -101,3 +98,4 @@ Besides, I can develop simple apps using `Flutter` and `Android Studio`.
   * [Textbook RSA](https://github.com/10EastSea/textbook-rsa)
   * [Substitution Cipher](https://github.com/10EastSea/substitution-cipher)
   * [Elliptic Curve Cryptography](https://github.com/10EastSea/elliptic-curve-cryptography)
+- ⛓ [COCO HEIM](https://github.com/10EastSea/cocoheim), Blockchain defi application that implements swap protocol (using Uniswap) (2021.12.22)
