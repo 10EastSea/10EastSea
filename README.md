@@ -86,7 +86,6 @@ Besides, I can develop simple apps using `Android Studio` and `Flutter`.
   * Wallet for Cryptocurrency Transactions made using Klayton Tokens (using Android)
   * Online Voting Application operating on Android (using Android)
   * [Dalgona Swap on Testnet](https://github.com/10EastSea/dalgona-testnet) (using PancakeSwap)
-  * Study on cryptography and zero-knowledge proof (using [jsnark](https://github.com/akosba/jsnark))
 - ⚾️ 숫자야구 (Bulls and Cows), Game Application Development
   * [Android](https://play.google.com/store/apps/details?id=com.eastsea.bulls_and_cows) (2021.08.07)
   * iOS (Preparing to release)
@@ -99,3 +98,7 @@ Besides, I can develop simple apps using `Android Studio` and `Flutter`.
   * [Substitution Cipher](https://github.com/10EastSea/substitution-cipher)
   * [Elliptic Curve Cryptography](https://github.com/10EastSea/elliptic-curve-cryptography)
 - ⛓ [COCO HEIM](https://github.com/10EastSea/cocoheim), Blockchain defi application that implements swap protocol (using Uniswap) (2021.12.22)
+- 🧑‍🎓 Undergraduate researcher, [Department of Information System](http://is.hanyang.ac.kr/) (2022.01.01~)
+  * Study on cryptography and zero-knowledge proof (using [jsnark](https://github.com/akosba/jsnark))
+  * [jsnark-projects](https://github.com/10EastSea/jsnark-projects)
+  * [solidity-projects](https://github.com/10EastSea/solidity-projects)
