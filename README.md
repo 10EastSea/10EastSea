@@ -6,8 +6,9 @@
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://www.github.com/10EastSea)
 <!-- [![Instagram Badge](https://img.shields.io/badge/Instagram-DD2A7B?logo=instagram&logoColor=white)](https://www.instagram.com/y.eastsea) -->
 
-Hello, I'm ***Back-end Programmer*** using `Java`. I can design and implement various `algorithms` with Java.
-In addition, I can do `Front-end` implementation and `DataBase` design.
+Hello, I'm ***Java Programmer***. I can design and implement various algorithms with `java`.
+In addition, I can implement `Front-end` using `HTML/CSS/JavaScript` and `Back-end` using `java` or `javascript`.
+I can also design and implement `DataBase`.
 Besides, I can develop simple apps using `Android Studio` and `Flutter`.
 
 
