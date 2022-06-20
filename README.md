@@ -6,7 +6,7 @@
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://www.github.com/10EastSea)
 <!-- [![Instagram Badge](https://img.shields.io/badge/Instagram-DD2A7B?logo=instagram&logoColor=white)](https://www.instagram.com/y.eastsea) -->
 
-Hello, I'm ***Java Programmer***. I can design and implement various algorithms with `java`.
+Hello, I'm ***Full-Stack Programmer***. I can design and implement various algorithms with `java`.
 In addition, I can implement `Front-end` using `HTML/CSS/JavaScript` and `Back-end` using `java` or `javascript`.
 I can also design and implement `DataBase`.
 Besides, I can develop simple apps using `Android Studio` and `Flutter`.
@@ -32,7 +32,8 @@ Besides, I can develop simple apps using `Android Studio` and `Flutter`.
 
 #### 🚀 Frameworks & Platfroms
 [![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](#)
-[![Spring_Boot Badge](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)](#) &nbsp; 
+[![Spring_Boot Badge](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)](#)
+[![Flask Badge](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](#) &nbsp; 
 [![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](#)
 [![JQuery Badge](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](#)
 [![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)](#)
