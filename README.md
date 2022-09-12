@@ -116,4 +116,4 @@ If you want to know more about me, please click on the ***[Notion](https://easts
   * [rust-exercises](https://github.com/10EastSea/rust-exercises)
 - 👖 [Clothes Color Combination](https://10eastsea.github.io/clothing-color-combination/), Site where you can see the color combinations of the top and bottom (2022.04.01)
 - 🧾 [Dutch Treat Calculator](https://10eastsea.github.io/dutch-treat-calculator/), Site that calculate Dutch Treat (2022.05.18)
-- 📰 [News Recommender System](https://10eastsea.github.io/news-recommender-system), System that recommends news based on NRMS model (2022.08.30)
+- 📰 [News Recommender System](https://github.com/10EastSea/news-recommender-system), System that recommends news based on NRMS model (2022.08.30)
