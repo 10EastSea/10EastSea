@@ -11,6 +11,10 @@ In addition, I can implement `Front-End` using `HTML/CSS/JS`, and `Back-End` usi
 I can also design and implement `DataBase` using `MariaDB(MySQL)` and `MongoDB`.
 Besides, I can develop simple apps using `Android Studio` and `Flutter`.
 
+<hr>
+
+If you want to know more about me, please click on the ***[Notion](https://eastsea.notion.site/Welcome-to-EastSea-47cdbe5249c74598b15872d61702055a)*** link.
+
 
 ## Stack
 
