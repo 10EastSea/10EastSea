@@ -6,7 +6,7 @@
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://www.github.com/10EastSea)
 <!-- [![Instagram Badge](https://img.shields.io/badge/Instagram-DD2A7B?logo=instagram&logoColor=white)](https://www.instagram.com/y.eastsea) -->
 
-Hello, I'm ***Full-Stack Programmer***. I can use `Java` and `Python` skillfully, and I can write basic algorithms using `C/C++`.
+Hello, I'm ***Data Engineer***. I can use `Java` and `Python` skillfully, and I can write basic algorithms using `C/C++`.
 In addition, I can implement `Front-End` using `HTML/CSS/JS`, and `Back-End` using `Java(Spring)`, `JavaScript(Node.js)`, and `Python(Flask)`.
 I can also design and implement `DataBase` using `MariaDB(MySQL)` and `MongoDB`.
 Besides, I can develop simple apps using `Android Studio` and `Flutter`.
