@@ -6,10 +6,9 @@
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://www.github.com/10EastSea)
 <!-- [![Instagram Badge](https://img.shields.io/badge/Instagram-DD2A7B?logo=instagram&logoColor=white)](https://www.instagram.com/y.eastsea) -->
 
-Hello, I'm ***Data Engineer***. I can use `Java` and `Python` skillfully, and I can write basic algorithms using `C/C++`.
-In addition, I can implement `Front-End` using `HTML/CSS/JS`, and `Back-End` using `Java(Spring)`, `JavaScript(Node.js)`, and `Python(Flask)`.
-I can also design and implement `DataBase` using `MariaDB(MySQL)` and `MongoDB`.
-Besides, I can develop simple apps using `Android Studio` and `Flutter`.
+Hello, I'm ***Data Engineer***. My main language is `Python`. I can write any script I want, and I can build a data pipeline with `Python`.
+In addition, I can handle various databases such as `MySQL`, `Hive`, etc.
+Besides, I can build simple web apps and services using `JavaScript`.
 
 <hr>
 
@@ -19,61 +18,32 @@ If you want to know more about me, please click on the ***[Notion](https://easts
 ## Stack
 
 #### 👩‍💻 Languages
-[![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](#) &nbsp; 
+[![Python Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](#) &nbsp; 
 [![HTML Badge](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
 [![CSS Badge](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
-[![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#) &nbsp; 
-[![Python Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)](#) &nbsp; 
-[![Dart Badge](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](#) &nbsp; 
-[![C Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](#)
-[![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](#) &nbsp; 
-[![Solidity Badge](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black)](#)
+[![JavaScript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](#) &nbsp; 
+[![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](#)
 
 #### ⚡ Database
-[![MariaDB Badge](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)](#)
-[![MySQL Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](#) &nbsp; 
+[![MySQL Badge](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](#)
 [![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#)
+[![Redis Badge](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)](#)
 
 #### 🚀 Frameworks & Platforms
-[![Flask Badge](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](#) &nbsp; 
-[![Nodejs Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](#)
-[![Express Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](#) &nbsp; 
-[![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](#)
-[![Spring_Boot Badge](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)](#) <br>
+[![Airflow Badge](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)](#)
+[![Spark Badge](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16)](#)
+[![Hadoop Badge](https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=white)](#)
+[![Docker Badge](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](#) <br/>
+[![Flask Badge](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](#)
+[![Node.js Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](#)
+[![Express.js Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](#)
+[![jQuery Badge](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](#)
 [![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](#)
-[![JQuery Badge](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](#)
-[![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)](#)
-[![Chartjs Badge](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)](#) &nbsp; 
-[![Android Badge](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](#)
-[![Flutter Badge](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](#)
-<!-- [![Django Badge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](#)
-[![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#) &nbsp; 
-[![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
-[![Docker Badge](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](#) -->
-
-<!--
-#### 💻 Environment & Cloud
-[![Visual_Studio_Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](#)
-[![Android_Studio Badge](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)](#) &nbsp; 
-[![GCP Badge](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](#)
-
-#### 👨‍💻 Office
-[![Word Badge](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)](#)
-[![PowerPoint Badge](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)](#)
-[![Excel Badge](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](#)
-
-#### 🖥 Workspace Spec
-[![Imac Badge](https://img.shields.io/badge/Apple-iMac_2020-999999?style=for-the-badge&logo=apple&logoColor=white)](#) &nbsp; 
-[![CPU Badge](https://img.shields.io/badge/Intel-Core_i7_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white)](#)
-[![Graphic Badge](https://img.shields.io/badge/AMD-Radeon_Pro_5500_XT-ED1C24?style=for-the-badge&logo=amd&logoColor=white)](#) <br /> 
-[![Macbook Badge](https://img.shields.io/badge/Apple-MacBook_Pro_2019-999999?style=for-the-badge&logo=apple&logoColor=white)](#) &nbsp; 
-[![CPU Badge](https://img.shields.io/badge/Intel-Core_i5_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white)](#)
- -->
 
 
 ## Experience
 
-- 🎓 [Hanyang University](https://www.hanyang.ac.kr/), [Department of Computer Science](http://cs.hanyang.ac.kr/) (2017.03.02~)
+- 🎓 [Hanyang University](https://www.hanyang.ac.kr/), [Department of Computer Science](http://cs.hanyang.ac.kr/) (2017.03.02~2023.02.16)
   * [FourKer](https://github.com/10EastSea/FourKer)
   * [DataStructure Assignment](https://github.com/10EastSea/data-structure_assignment)
   * [B+Tree](https://github.com/10EastSea/database_B-Tree)
